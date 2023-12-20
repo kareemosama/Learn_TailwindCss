@@ -1,6 +1,6 @@
 # Learn Tailwind CSS
 
-![Tailwind CSS Logo]([https://tailwindcss.com/_next/static/media/packagist.9246c97a60e3e4bc12a2bcb68a202537.png](https://github.com/kareemosama/Learn_TailwindCss/blob/main/images/MainPage.png))
+![Tailwind CSS Logo](https://github.com/kareemosama/Learn_TailwindCss/blob/main/images/MainPage.png)
 
 ## Overview
 
